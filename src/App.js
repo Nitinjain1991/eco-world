@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       {/* <Connectivity /> */}
-      <Campus />
+      {/* <Campus /> */}
       {/* <SliderComponent /> */}
       {/* <TechForward /> */}
       <AboutUs />
