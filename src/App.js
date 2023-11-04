@@ -1,4 +1,5 @@
 import "./App.css";
+import AboutUs from "./pages/AboutUs";
 import Campus from "./pages/Campus";
 import Connectivity from "./pages/Connectivity";
 import Footer from "./pages/Footer";
@@ -12,6 +13,7 @@ function App() {
       <Campus />
       {/* <SliderComponent /> */}
       {/* <TechForward /> */}
+      <AboutUs />
       <Footer />
     </div>
   );

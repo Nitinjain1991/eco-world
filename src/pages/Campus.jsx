@@ -443,11 +443,10 @@ const Campus = () => {
           <h2 className="text-center font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-fadeGreen leading-normal capitalize">
             Accessibility
           </h2>
-          <p className="font-AvenirLight font-light text-xs md:text-sm leading-normal text-fadeGreen text-center xl:mt-5">
-            Discover a welcoming work enviroment where accessibility to all is a
-            priority. From sactile flooring, braillie letters to
-            <br className="hidden larger:block" /> wheelchairs ramps, every
-            space is designed for easy accessibility.
+          <p className="font-AvenirLight font-light text-xs md:text-sm leading-normal text-fadeGreen text-center xl:mt-5 xl:max-w-[96%] larger:max-w-[72%] mx-auto">
+            We remain committed to investing in making Ecoworld an experiential
+            asset that focuses on inclusion, universal accessibility and the
+            overall well-being of our tenants and community.
           </p>
 
           <div className="Accessibility-slider mx-[-12px]">
@@ -589,12 +588,12 @@ const Campus = () => {
           <h2 className="text-center font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-fadeGreen leading-normal capitalize">
             Sustainability
           </h2>
-          <p className="font-AvenirLight font-light text-xs md:text-sm leading-normal text-fadeGreen text-center xl:mt-5">
-            Ecoworld has been recognised as Asia's First Net Zero Campus and has
-            won several green awards for its{" "}
-            <br className="hidden larger:block" />
-            sustainable practices like 100% water recycling and rainwater
-            harvesting.
+          <p className="font-AvenirLight font-light text-xs md:text-sm leading-normal text-fadeGreen text-center xl:mt-5 xl:max-w-[96%] larger:max-w-[72%] mx-auto">
+            Our sustainable solutions help build a better world for people,
+            business and communities. Ecoworld, Asia's first Net-zero campus is
+            built with a focus on climate change resilience and using new,
+            cutting-edge solutions for clean energy, waste management and
+            decarbonization.
           </p>
 
           <div className="border-2 border-lightGray px-2 md:px-4 xl:px-6 py-2 md:py-4 xl:py-6 bg-white mt-4 lg:mt-24">
