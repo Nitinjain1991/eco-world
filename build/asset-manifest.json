@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4dc82efb.css",
+    "main.js": "/static/js/main.2cd96e59.js",
+    "static/js/787.1387fd12.chunk.js": "/static/js/787.1387fd12.chunk.js",
+    "static/media/Avenir.ttc": "/static/media/Avenir.e0e8d0e7dc50c4d85584.ttc",
+    "static/media/AvenirLight.ttf": "/static/media/AvenirLight.8f47513e72894bc6169f.ttf",
+    "static/media/SangBleuKingdomTrial-Medium.otf": "/static/media/SangBleuKingdomTrial-Medium.7584540b89a232e67163.otf",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.4dc82efb.css.map": "/static/css/main.4dc82efb.css.map",
+    "main.2cd96e59.js.map": "/static/js/main.2cd96e59.js.map",
+    "787.1387fd12.chunk.js.map": "/static/js/787.1387fd12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dc82efb.css",
+    "static/js/main.2cd96e59.js"
+  ]
+}
