@@ -28,7 +28,7 @@ const TermsCondition = () => {
           <h2 className="font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-fadeGreen leading-normal capitalize">
             Terms and Conditions
           </h2>
-          <p className="font-AvenirLight font-light text-xs md:text-sm leading-normal text-fadeGreen mt-6 xl:mt-8">
+          <p className="font-AvenirLight font-light text-xs md:text-sm leading-normal text-fadeGreen mt-2 xl:mt-8">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
             et ligula sed nisi porta accumsan. Sed mollis dui nec convallis
             feugiat. Vivamus non tellus turpis. Suspendisse lobortis rutrum ex,
