@@ -8,7 +8,8 @@ import Footer from "./pages/Footer";
 // import SliderComponent from "./pages/slider";
 // import SustainabilityWellness from "./pages/SustainabilityWellness";
 // import TermsCondition from "./pages/Terms&Condition";
-import PrivacyPolicy from "./pages/PrivacyPolicy";
+// import PrivacyPolicy from "./pages/PrivacyPolicy";
+import GetInTouch from "./pages/GetInTouch";
 
 function App() {
   return (
@@ -21,7 +22,8 @@ function App() {
       {/* <SliderComponent /> */}
       {/* <SustainabilityWellness /> */}
       {/* <TermsCondition /> */}
-      <PrivacyPolicy />
+      {/* <PrivacyPolicy /> */}
+      <GetInTouch />
       <Footer />
     </div>
   );

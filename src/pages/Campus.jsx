@@ -193,7 +193,7 @@ const Campus = () => {
         </div>
       </section>
 
-      {/* A Look at Ecoworld */}
+      {/* Masterplan */}
       <section className="pb-8 md:py-10 lg:py-20 xxl:pt-28 larger:pb-32 relative">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <h2 className="text-center font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-fadeGreen leading-normal capitalize">
@@ -201,7 +201,11 @@ const Campus = () => {
           </h2>
 
           <div>
-            <img src="/images/campus-3d-map.png" alt="campus-3d-map" className="w-full object-contain" />
+            <img
+              src="/images/campus-3d-map.png"
+              alt="campus-3d-map"
+              className="w-full object-contain"
+            />
           </div>
           <div class="mt-4 text-center">
             <h4 class="font-SangBleuKingdomTrial text-xs xl:text-sm font-medium text-fadeGreen leading-normal">
