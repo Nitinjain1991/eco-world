@@ -30,10 +30,10 @@ const InspirationalSpaces = () => {
         </div>
       </section>
 
-      {/* Command Centre */}
-      <section className="pt-10 pb-0 md:py-20">
+      {/* Inspire Creativity */}
+      <section className="pt-10 pb-0 md:py-20 relative">
         <div className="container xxl:max-larger:max-w-[1220px]">
-          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 md:flex items-center justify-between">
+          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 md:flex items-center justify-between bg-white">
             <div className="md:w-3/5">
               <img
                 src="/images/Inspire-creativity-1.jpg"
@@ -53,9 +53,11 @@ const InspirationalSpaces = () => {
             </div>
           </div>
         </div>
+
+        <div className="before:absolute before:top-0 before:left-0 before:right-0 md:before:h-[50%] before:bg-fadeGreen before:z-[-1]"></div>
       </section>
 
-      {/* Helpdesk */}
+      {/* Water Bodies */}
       <section className="pt-10 pb-0 md:py-20">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 flex flex-col-reverse md:flex-row items-center justify-between">
@@ -81,7 +83,7 @@ const InspirationalSpaces = () => {
         </div>
       </section>
 
-      {/* Concierge Services */}
+      {/* The more you find */}
       <section className="py-10 md:py-20 xl:pb-40 xxl:pb-64">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 md:flex items-center justify-between">
