@@ -4,7 +4,7 @@ const SustainabilityWellness = () => {
   return (
     <>
       {/* sponsers or partner at the top */}
-      <section className="py-8 md:py-10 xl:py-20 xl:py-40">
+      <section className="py-8 md:py-10 xl:py-20 xxl:py-40">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <div className="flex flex-wrap max-md:gap-x-4 max-md:gap-y-8 md:gap-x-10 md:gap-y-20 items-center justify-center xl:w-3/4 mx-auto">
             <div className="w-2/5 md:w-1/5">
