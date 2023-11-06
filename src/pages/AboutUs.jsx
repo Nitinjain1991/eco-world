@@ -36,7 +36,7 @@ const AboutUs = () => {
                     38+
                   </h4>
 
-                  <p class="font-SangBleuKingdomTrial text-[10pt] lg:max-xl:text-[9pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
+                  <p className="font-SangBleuKingdomTrial text-[10pt] lg:max-xl:text-[9pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
                     MSF OPERATIONAL
                   </p>
                 </div>
@@ -46,7 +46,7 @@ const AboutUs = () => {
                     $8B
                   </h4>
 
-                  <p class="font-SangBleuKingdomTrial text-[10pt] lg:max-xl:text-[9pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
+                  <p className="font-SangBleuKingdomTrial text-[10pt] lg:max-xl:text-[9pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
                     GROSS <br className="hidden xxl:block" /> ASSET VALUE
                   </p>
                 </div>
@@ -55,7 +55,7 @@ const AboutUs = () => {
                     12+
                   </h4>
 
-                  <p class="font-SangBleuKingdomTrial text-[10pt] lg:max-xl:text-[9pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
+                  <p className="font-SangBleuKingdomTrial text-[10pt] lg:max-xl:text-[9pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
                     MSF UNDER ONGOING DEVELOPMENT
                   </p>
                 </div>
@@ -171,7 +171,7 @@ const AboutUs = () => {
           {/* bottom counter or services */}
           <div className="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-5 gap-y-10 md:gap-10 mt-10 md:mt-14 xl:mt-24">
             <div>
-              <p class="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
+              <p className="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
                 REAL ESTATE
               </p>
               <h4 className="font-Avenir font-normal text-[27pt] md:text-[45pt] larger:text-[55pt] leading-normal text-lightGray">
@@ -237,7 +237,7 @@ const AboutUs = () => {
             </div>
 
             <div>
-              <p class="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
+              <p className="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
                 INFRASTRUCTURE
               </p>
               <h4 className="font-Avenir font-normal text-[27pt] md:text-[45pt] larger:text-[55pt] leading-normal text-lightGray">
@@ -285,7 +285,7 @@ const AboutUs = () => {
             </div>
 
             <div>
-              <p class="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
+              <p className="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
                 RENEWABLE POVÆR
               </p>
               <h4 className="font-Avenir font-normal text-[27pt] md:text-[45pt] larger:text-[55pt] leading-normal text-lightGray">
@@ -333,7 +333,7 @@ const AboutUs = () => {
             </div>
 
             <div>
-              <p class="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
+              <p className="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
                 PRIVATE EQUITY
               </p>
               <h4 className="font-Avenir font-normal text-[27pt] md:text-[45pt] larger:text-[55pt] leading-normal text-lightGray">
@@ -372,7 +372,7 @@ const AboutUs = () => {
             </div>
 
             <div>
-              <p class="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
+              <p className="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
                 CREDIT
               </p>
               <h4 className="font-Avenir font-normal text-[27pt] md:text-[45pt] larger:text-[55pt] leading-normal text-lightGray">
@@ -427,7 +427,7 @@ const AboutUs = () => {
                 ~$800 B+
               </h4>
 
-              <p class="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
+              <p className="font-SangBleuKingdomTrial text-[10pt] larger:text-xs font-medium text-fadeGreen leading-normal capitalize">
                 ASSETS UNDER MANAGEMENT
               </p>
             </div>

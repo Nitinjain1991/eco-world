@@ -1,19 +1,21 @@
 import "./App.css";
-import AboutUs from "./pages/AboutUs";
-import Campus from "./pages/Campus";
-import Connectivity from "./pages/Connectivity";
+// import AboutUs from "./pages/AboutUs";
+// import Campus from "./pages/Campus";
+// import Connectivity from "./pages/Connectivity";
+import InspirationalSpaces from "./pages/InspirationalSpaces";
+// import TechForward from "./pages/TechForward";
+// import SliderComponent from "./pages/slider";
 import Footer from "./pages/Footer";
-import TechForward from "./pages/TechForward";
-import SliderComponent from "./pages/slider";
 
 function App() {
   return (
     <div className="App">
-      {/* <Connectivity /> */}
+      {/* <AboutUs /> */}
       {/* <Campus /> */}
-      {/* <SliderComponent /> */}
+      {/* <Connectivity /> */}
+      <InspirationalSpaces />
       {/* <TechForward /> */}
-      <AboutUs />
+      {/* <SliderComponent /> */}
       <Footer />
     </div>
   );

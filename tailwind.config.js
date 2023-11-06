@@ -16,7 +16,6 @@ module.exports = {
       textColor: {
         fadeGreen: "#324031",
         lightGray: "#354033",
-        darkGreen: "#354033",
       },
       fontSize: {
         xs: "14pt",

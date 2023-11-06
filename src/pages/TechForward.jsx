@@ -10,7 +10,7 @@ const TechForward = () => {
             Command Centre
           </h2>
 
-          <div class="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
+          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
             <div className="md:w-3/5">
               <img
                 src="/images/techForward-1.jpg"
@@ -23,7 +23,7 @@ const TechForward = () => {
               <h4 className="font-SangBleuKingdomTrial text-xs xl:text-sm font-medium text-fadeGreen leading-normal capitalize">
                 Monitor. Manage. Control
               </h4>
-              <p className="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen mt-1">
+              <p className="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen md:mt-4">
                 The command center integrates technology to ensure smooth campus
                 operations.
               </p>
@@ -39,12 +39,12 @@ const TechForward = () => {
             Helpdesk
           </h2>
 
-          <div class="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
+          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
             <div className="md:w-[37%] larger:pr-20 mt-4">
               <h4 className="font-SangBleuKingdomTrial text-xs xl:text-sm font-medium text-fadeGreen leading-normal capitalize">
                 Help is a call away
               </h4>
-              <p className="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen mt-1">
+              <p className="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen md:mt-4">
                 Call our heIp desk for assistance with any workpace issues.
               </p>
             </div>
@@ -67,7 +67,7 @@ const TechForward = () => {
             Concierge Services
           </h2>
 
-          <div class="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
+          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
             <div className="md:w-3/5">
               <img
                 src="/images/techForward-3.jpg"
@@ -80,7 +80,7 @@ const TechForward = () => {
               <h4 className="font-SangBleuKingdomTrial text-xs xl:text-sm font-medium text-fadeGreen leading-normal capitalize">
                 Personalized assistance
               </h4>
-              <p className="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen mt-1">
+              <p className="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen md:mt-4">
                 Enjoy a seamless workday with our concierge always at your
                 service.
               </p>
@@ -96,12 +96,12 @@ const TechForward = () => {
             Security
           </h2>
 
-          <div class="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
+          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
             <div className="md:w-[37%] larger:pr-20 mt-4">
               <h4 className="font-SangBleuKingdomTrial text-xs xl:text-sm font-medium text-fadeGreen leading-normal capitalize">
                 Your safety. Our priority
               </h4>
-              <p className="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen mt-1">
+              <p className="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen md:mt-4">
                 Open the doors into a safe environment with robust security
                 measures with real-time CCTV surveillance.
               </p>
@@ -125,7 +125,7 @@ const TechForward = () => {
             Parking Solutions
           </h2>
 
-          <div class="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
+          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
             <div className="md:w-3/5">
               <img
                 src="/images/techForward-5.jpg"
@@ -138,7 +138,7 @@ const TechForward = () => {
               <h4 className="font-SangBleuKingdomTrial text-xs xl:text-sm font-medium text-fadeGreen leading-normal capitalize">
                 Park with ease
               </h4>
-              <p className="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen mt-1">
+              <p className="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen md:mt-4">
                 Find your spot with ample spaces available in a dedicated
                 parking at the campus.
               </p>
