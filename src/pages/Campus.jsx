@@ -194,6 +194,27 @@ const Campus = () => {
       </section>
 
       {/* A Look at Ecoworld */}
+      <section className="pb-8 md:py-10 lg:py-20 xxl:pt-28 larger:pb-32 relative">
+        <div className="container xxl:max-larger:max-w-[1220px]">
+          <h2 className="text-center font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-fadeGreen leading-normal capitalize">
+            Masterplan
+          </h2>
+
+          <div>
+            <img src="/images/campus-3d-map.png" alt="campus-3d-map" className="w-full object-contain" />
+          </div>
+          <div class="mt-4 text-center">
+            <h4 class="font-SangBleuKingdomTrial text-xs xl:text-sm font-medium text-fadeGreen leading-normal">
+              Ecoworld : A workplace for everyone
+            </h4>
+            <p class="font-AvenirLight font-light text-xs xl:text-[16pt] larger:text-sm leading-normal text-fadeGreen md:mt-4">
+              Explore endless inspiration. The more you seek, the more you find.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* A Look at Ecoworld */}
       <section className="py-8  md:py-20 xxl:pt-28 larger:pb-32 relative">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <h2 className="text-center font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-white leading-normal capitalize">
