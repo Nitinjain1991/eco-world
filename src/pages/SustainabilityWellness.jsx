@@ -4,56 +4,56 @@ const SustainabilityWellness = () => {
   return (
     <>
       {/* sponsers or partner at the top */}
-      <section className="py-40">
+      <section className="py-8 md:py-10 xl:py-20 xl:py-40">
         <div className="container xxl:max-larger:max-w-[1220px]">
-          <div className="flex flex-wrap gap-x-10 gap-y-20 items-center justify-center w-3/4 mx-auto">
-            <div className="w-1/5">
+          <div className="flex flex-wrap max-md:gap-x-4 max-md:gap-y-8 md:gap-x-10 md:gap-y-20 items-center justify-center xl:w-3/4 mx-auto">
+            <div className="w-2/5 md:w-1/5">
               <img
-                src="/images/rating&certificate-items-5.png"
+                src="/images/sponser-item-1.png"
                 alt=""
-                className="w-full max-w-[140px] object-contain"
+                className="w-full md:max-w-[200px] object-contain"
               />
             </div>
-            <div className="w-1/5">
+            <div className="w-2/5 md:w-1/5">
               <img
-                src="/images/rating&certificate-items-5.png"
+                src="/images/sponser-item-2.png"
                 alt=""
-                className="w-full max-w-[140px] object-contain"
+                className="w-full md:max-w-[200px] object-contain"
               />
             </div>
-            <div className="w-1/5">
+            <div className="w-2/5 md:w-1/5">
               <img
-                src="/images/rating&certificate-items-5.png"
+                src="/images/sponser-item-3.png"
                 alt=""
-                className="w-full max-w-[140px] object-contain"
+                className="w-full md:max-w-[200px] object-contain"
               />
             </div>
-            <div className="w-1/5">
+            <div className="w-2/5 md:w-1/5">
               <img
-                src="/images/rating&certificate-items-5.png"
+                src="/images/sponser-item-4.png"
                 alt=""
-                className="w-full max-w-[140px] object-contain"
+                className="w-full md:max-w-[200px] object-contain"
               />
             </div>
-            <div className="w-1/5">
+            <div className="w-2/5 md:w-1/5">
               <img
-                src="/images/rating&certificate-items-5.png"
+                src="/images/sponser-item-5.png"
                 alt=""
-                className="w-full max-w-[140px] object-contain"
+                className="w-full md:max-w-[200px] object-contain"
               />
             </div>
-            <div className="w-1/5">
+            <div className="w-2/5 md:w-1/5">
               <img
-                src="/images/rating&certificate-items-5.png"
+                src="/images/sponser-item-6.png"
                 alt=""
-                className="w-full max-w-[140px] object-contain"
+                className="w-full md:max-w-[200px] object-contain"
               />
             </div>
-            <div className="w-1/5">
+            <div className="w-2/5 md:w-1/5">
               <img
-                src="/images/rating&certificate-items-5.png"
+                src="/images/sponser-item-7.png"
                 alt=""
-                className="w-full max-w-[140px] object-contain"
+                className="w-full md:max-w-[200px] object-contain"
               />
             </div>
           </div>
@@ -61,7 +61,7 @@ const SustainabilityWellness = () => {
       </section>
 
       {/* Asia's First Net Zero Waste Campus */}
-      <section className="py-10 md:py-28 bg-darkGreen">
+      <section className="py-8 md:py-10 xl:py-28 bg-darkGreen">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <h2 className="text-center font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-white leading-normal capitalize">
             Asia's First Net Zero Waste Campus
@@ -82,7 +82,7 @@ const SustainabilityWellness = () => {
       </section>
 
       {/* Sustainable Practices */}
-      <section className="py-10 md:py-28 relative">
+      <section className="py-8 md:py-10 xl:py-28 relative">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <h2 className="text-center font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-white leading-normal capitalize">
             Sustainable Practices
@@ -102,11 +102,11 @@ const SustainabilityWellness = () => {
           </div>
         </div>
 
-        <div className="before:absolute before:top-0 before:left-0 before:right-0 before:h-[400px] md:before:h-[800px] before:bg-fadeGreen before:z-[-1]"></div>
+        <div className="before:absolute before:top-0 before:left-0 before:right-0 before:h-[68%] before:bg-fadeGreen before:z-[-1]"></div>
       </section>
 
       {/* AIRE Case study */}
-      <section className="py-4 md:py-14 xxl:py-20 larger:py-24">
+      <section className="py-4 md:py-10 xl:py-14 xxl:py-20 larger:py-24">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <h2 className="text-center font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-fadeGreen leading-normal capitalize">
             AIRE Case study
@@ -125,9 +125,13 @@ const SustainabilityWellness = () => {
               href="/knowmore"
               className="font-AvenirLight font-light text-xs md:text-sm leading-normal text-fadeGreen inline-block group"
             >
-              Know More{" "}
-              <span className="ml-2 group-hover: animate-wiggle inline-block">
-                &rarr;
+              Know More
+              <span className="ml-4 group-hover: animate-wiggle inline-block">
+                <img
+                  src="/images/darkest-right-arrow.png"
+                  alt="darkest-right-arrow"
+                  className="w-full max-w-[14px] md:max-w-[20px] object-contain"
+                />
               </span>
             </a>
           </div>
@@ -135,7 +139,7 @@ const SustainabilityWellness = () => {
       </section>
 
       {/* Air Quality */}
-      <section className="pt-10 pb-0 md:py-20">
+      <section className="pt-10 pb-0 xl:py-20">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 md:flex items-center justify-between">
             <div className="md:w-3/5">
@@ -160,7 +164,7 @@ const SustainabilityWellness = () => {
       </section>
 
       {/* Building Plan */}
-      <section className="py-10 md:py-20 xl:pb-32 larger:pb-64">
+      <section className="py-8 md:py-10 xl:py-20 xl:pb-32 larger:pb-64">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 flex flex-col-reverse md:flex-row items-center justify-between">
             <div className="md:w-[37%] larger:pr-20 mt-4">

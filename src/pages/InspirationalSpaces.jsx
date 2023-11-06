@@ -31,7 +31,7 @@ const InspirationalSpaces = () => {
       </section>
 
       {/* Inspire Creativity */}
-      <section className="pt-10 pb-0 md:py-20 relative">
+      <section className="md:pb-20 relative">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 md:flex items-center justify-between bg-white">
             <div className="md:w-3/5">
@@ -54,7 +54,7 @@ const InspirationalSpaces = () => {
           </div>
         </div>
 
-        <div className="before:absolute before:top-0 before:left-0 before:right-0 md:before:h-[50%] before:bg-fadeGreen before:z-[-1]"></div>
+        <div className="before:absolute before:top-0 before:left-0 before:right-0 before:h-[50%] before:bg-fadeGreen before:z-[-1]"></div>
       </section>
 
       {/* Water Bodies */}
