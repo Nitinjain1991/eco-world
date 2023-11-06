@@ -3,7 +3,7 @@ import React from "react";
 const InspirationalSpaces = () => {
   return (
     <>
-      {/* Command Centre */}
+      {/* AIRE Cube */}
       <section className="py-10 md:py-28 bg-darkGreen">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <h2 className="text-center font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-white leading-normal capitalize">
