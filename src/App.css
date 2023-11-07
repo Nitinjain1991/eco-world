@@ -202,6 +202,7 @@ body::-webkit-scrollbar {
   top: 0%;
   left: 0%;
   width: 100%;
+  color: #788876;
   height: 100%;
   /* box-shadow: 0px 0px 80px 110px #354033 inset; */
   background: radial-gradient(at center, transparent 20%, #354033 70%, #354033);
