@@ -33,7 +33,7 @@ const InspirationalSpaces = () => {
       {/* Inspire Creativity */}
       <section className="md:pb-20 relative">
         <div className="container xxl:max-larger:max-w-[1220px]">
-          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 md:flex items-center justify-between bg-white">
+          <div className="border border-black p-2 md:p-4 xl:p-6 md:flex items-center justify-between bg-white">
             <div className="md:w-3/5">
               <img
                 src="/images/Inspire-creativity-1.jpg"
@@ -60,7 +60,7 @@ const InspirationalSpaces = () => {
       {/* Water Bodies */}
       <section className="pt-10 pb-0 md:py-20">
         <div className="container xxl:max-larger:max-w-[1220px]">
-          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 flex flex-col-reverse md:flex-row items-center justify-between">
+          <div className="border border-black p-2 md:p-4 xl:p-6 flex flex-col-reverse md:flex-row items-center justify-between">
             <div className="md:w-[37%] larger:pr-20 mt-4">
               <h4 className="font-SangBleuKingdomTrial text-xs xl:text-sm font-medium text-fadeGreen leading-normal capitalize">
                 Water Bodies
@@ -86,7 +86,7 @@ const InspirationalSpaces = () => {
       {/* The more you find */}
       <section className="py-10 md:py-20 xl:pb-40 xxl:pb-64">
         <div className="container xxl:max-larger:max-w-[1220px]">
-          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 md:flex items-center justify-between">
+          <div className="border border-black p-2 md:p-4 xl:p-6 md:flex items-center justify-between">
             <div className="md:w-3/5">
               <img
                 src="/images/Inspire-creativity-3.jpg"

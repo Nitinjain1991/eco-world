@@ -10,7 +10,7 @@ const TechForward = () => {
             Command Centre
           </h2>
 
-          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
+          <div className="border border-black p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
             <div className="md:w-3/5">
               <img
                 src="/images/techForward-1.jpg"
@@ -39,7 +39,7 @@ const TechForward = () => {
             Helpdesk
           </h2>
 
-          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
+          <div className="border border-black p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
             <div className="md:w-[37%] larger:pr-20 mt-4">
               <h4 className="font-SangBleuKingdomTrial text-xs xl:text-sm font-medium text-fadeGreen leading-normal capitalize">
                 Help is a call away
@@ -67,7 +67,7 @@ const TechForward = () => {
             Concierge Services
           </h2>
 
-          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
+          <div className="border border-black p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
             <div className="md:w-3/5">
               <img
                 src="/images/techForward-3.jpg"
@@ -96,7 +96,7 @@ const TechForward = () => {
             Security
           </h2>
 
-          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
+          <div className="border border-black p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
             <div className="md:w-[37%] larger:pr-20 mt-4">
               <h4 className="font-SangBleuKingdomTrial text-xs xl:text-sm font-medium text-fadeGreen leading-normal capitalize">
                 Your safety. Our priority
@@ -125,7 +125,7 @@ const TechForward = () => {
             Parking Solutions
           </h2>
 
-          <div className="border-2 border-lightGray p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
+          <div className="border border-black p-2 md:p-4 xl:p-6 mt-4 lg:mt-10 xxl:mt-20 md:flex items-center justify-between">
             <div className="md:w-3/5">
               <img
                 src="/images/techForward-5.jpg"
@@ -203,7 +203,7 @@ const TechForward = () => {
               </div>
             </div>
 
-            <div className="border-2 border-lightGray p-4 md:p-8 lg:p-14 larger:p-20 h-full flex flex-col justify-center">
+            <div className="border border-black p-4 md:p-8 lg:p-14 larger:p-20 h-full flex flex-col justify-center">
               <h4 className="font-SangBleuKingdomTrial text-xs xl:text-[17pt] larger:text-sm font-medium text-fadeGreen leading-normal capitalize">
                 Asset Management just got convenient
               </h4>
