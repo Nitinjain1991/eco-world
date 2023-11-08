@@ -25,7 +25,7 @@ const InspirationalSpaces = () => {
               className="w-full max-md:h-[300px] max-h-[780px] object-bottom object-cover"
             />
 
-            <div className="fdd"></div>
+            <div className="green-overlay"></div>
           </div>
         </div>
       </section>

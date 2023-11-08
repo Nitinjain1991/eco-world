@@ -10,12 +10,19 @@ import SustainabilityWellness from "./pages/SustainabilityWellness";
 import TermsCondition from "./pages/Terms&Condition";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import GetInTouch from "./pages/GetInTouch";
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
 import Header from "./pages/Header";
 import MediaCentre from "./pages/MediaCentre";
 import FirstEvents from "./pages/FirstEvents";
 import SecondEvents from "./pages/SecondEvents";
+import React, { useEffect } from "react";
+
 function App() {
+   const location = useLocation();
+
+   useEffect(() => {
+     window.scrollTo(0, 0);
+   }, [location]);
   return (
     <>
       <Header />

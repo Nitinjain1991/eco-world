@@ -197,7 +197,8 @@ body::-webkit-scrollbar {
   top: 105% !important;
 }
 
-.fdd {
+/* inspiraational page .overlay on image */
+.green-overlay {
   position: absolute;
   top: 0%;
   left: 0%;
@@ -208,7 +209,15 @@ body::-webkit-scrollbar {
   background: radial-gradient(at center, transparent 20%, #354033 70%, #354033);
   /* background: radial-gradient(at center, transparent 40%, #354033fc 60%, #354033); */
 }
-
+/* ///// */
+/* media centre */
+.react-tabs__tab--selected {
+  background: #fff;
+  border-color: white !important;
+  color: #324031 !important;
+  border-radius: 0px !important;
+}
+/* ///// */
 /* ////////////////// */
 
 @media (max-width:1440px) {
@@ -269,6 +278,15 @@ body::-webkit-scrollbar {
 }
 
 @media (max-width:768px) {
+/* media centre */
+ul[role="tablist"] {
+  zoom: 70%;
+}
+.react-tabs__tab-panel--selected {
+zoom: 50%;
+}
+/* //// */
+
   .Workspace-slider .slide-hide {
     display: none;
   }
