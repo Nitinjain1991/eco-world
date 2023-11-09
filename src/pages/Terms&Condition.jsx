@@ -26,7 +26,7 @@ const TermsCondition = () => {
       <section className="py-4 pb-10 md:pb-28 xxl:pb-40">
         <div className="container xxl:max-larger:max-w-[1220px]">
           <h2 className="font-SangBleuKingdomTrial max-[300px]:text-[16pt] text-sm md:text-xl font-medium text-fadeGreen leading-normal capitalize">
-            Terms and Conditions 1
+            Terms and Conditions 2
           </h2>
           <p className="font-AvenirLight font-light text-xs md:text-sm leading-normal text-fadeGreen mt-2 xl:mt-8">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
