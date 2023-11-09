@@ -36,7 +36,7 @@ const TermsCondition = () => {
             quis id mauris. Aenean ac enim justo. Nam quis arcu ut tellus cursus
             commodo sit amet at purus. Pellentesque habitant morbi tristique
             senectus et netus et malesuada fames ac turpis egestas. Etiam
-            tristique euismod est vel dignissim, Cras pharetra accumsan sem eu
+            tristique euismod est vel dignissim, Cras pharetra accumsan sem 
             tristique,
           </p>
           <p className="font-AvenirLight font-light text-xs md:text-sm leading-normal text-fadeGreen mt-6 xl:mt-8">
